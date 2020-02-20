@@ -27,7 +27,9 @@ function appendKitten(name) {
   return kittens;
 }
 
-function 
+function prependKitten(name) {
+  [name, ...kittens];
+}
 
 
 
