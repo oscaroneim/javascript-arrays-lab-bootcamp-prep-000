@@ -32,7 +32,9 @@ function prependKitten(name) {
   return kittens;
 }
 
-
+function removeLastKitten() {
+  
+}
 
 
 
